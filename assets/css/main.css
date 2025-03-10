@@ -5,7 +5,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+.txtmy {
+  color: purple;
+}
 /*--------------------------------------------------------------
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
@@ -1951,9 +1953,7 @@ section,
   background-color: color-mix(in srgb, var(--contrast-color), transparent 90%);
 }
 
-.contact .info-item p {
-  color: orange;
-}
+
 
 .contact .info-item:last-child {
   margin-bottom: 0;
